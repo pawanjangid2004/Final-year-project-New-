@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blu",
+				"blueviolet"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"adm",
+				"admregister"
+			],
+			[
+				"regis",
+				"registration"
+			],
+			[
+				"Med_",
+				"Med_name"
+			],
+			[
+				"Med",
+				"Med_name"
+			],
+			[
+				"M",
+				"Med_name"
+			],
+			[
+				"Big",
+				"BigIntegerField"
+			],
+			[
+				"Me",
+				"Med_Id"
+			],
+			[
+				"medi",
+				"medicine"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"integer",
+				"IntegerField"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"A",
+				"App_Contact_Management"
+			],
+			[
+				"debu",
+				"debug_toolbar"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"R",
+				"RCustomer"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"Re",
+				"Repeat_password"
+			],
+			[
+				"Store",
+				"storefront"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/Skin_disease_predictor/App_skin_detector/templates/View_doctors.html",
+		"/C/Users/Stephen/Downloads/Skin-Disease-Prediction-using-CNN-main/Skin-Disease-Prediction-using-CNN-main/Applet.py",
+		"/C/Users/Stephen/Downloads/Skin-Disease-Prediction-using-CNN-main/Skin-Disease-Prediction-using-CNN-main/index.html",
+		"/C/Users/Stephen/Downloads/Skin-Disease-Prediction-using-CNN-main/Skin-Disease-Prediction-using-CNN-main/main.css",
+		"/C/Users/Stephen/Downloads/Skin-Disease-Prediction-using-CNN-main/Skin-Disease-Prediction-using-CNN-main/templates/index.html",
+		"/C/Users/Stephen/AppData/Local/Temp/Rar$EXa13212.4825/Skin-Disease-Prediction-using-CNN-main/base.html",
+		"/C/Users/Stephen/AppData/Local/Temp/Rar$EXa13212.11809/Skin-Disease-Prediction-using-CNN-main/index.html",
+		"/C/Users/Stephen/AppData/Local/Temp/Rar$DIa13212.14454/Applet.py",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/Skin_disease_predictor/App_skin_detector/templates/base.html",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/data_augmentation.py",
+		"/C/Users/Stephen/Downloads/Skin-Disease-Prediction-using-CNN-main/Skin-Disease-Prediction-using-CNN-main/test.py",
+		"/C/Users/Stephen/AppData/Local/Temp/Rar$DIa13212.14195/Applet.py",
+		"/C/Users/Stephen/AppData/Local/Temp/Rar$EXa13212.6731/Skin-Disease-Prediction-using-CNN-main/index.html",
+		"/C/Users/Stephen/Desktop/data_augmentation.py",
+		"/C/Users/Stephen/Desktop/augmentation.py",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/Skin_disease_predictor/App_skin_detector/templates/Data_augmentation.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-4968-open.html",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/Skin_disease_predictor/App_skin_detector/urls.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-4028-open.html",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/view.html",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/views.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-13696-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-2508-open.html",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/templates/base.py",
+		"/C/Saurabh_projects/Traffic_sign_recogniser/Traffic_Sign_Recognition_System/Traffic_App/TEMPLATES/Base.html",
+		"/C/Saurabh_projects/Traffic_sign_recogniser/Traffic_Sign_Recognition_System/Traffic_App/admin.py",
+		"/C/Saurabh_projects/Human_Detection_And_Counting/App_Human_Detection_And_Counting/views.py",
+		"/C/Saurabh_projects/Human_Detection_And_Counting/App_Human_Detection_And_Counting/conversionxml.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-13856-open.html",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/MedicalStoreMngment/__init__.py",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/Skin_disease_predictor/manage.py",
+		"/C/Saurabh_projects/Human_Detection_And_Counting/App_Human_Detection_And_Counting/urls.py",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/Skin_disease_predictor/Skin_disease_predictor/settings.py",
+		"/C/Saurabh_projects/Skin disease prediction using CNN custom/Skin_disease_prediction/Skin_disease_prediction/settings.py",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/MedicalStoreMngment/settings.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-1412-open.html",
+		"/C/Saurabh_projects/Human_Detection_And_Counting/App_Human_Detection_And_Counting/admin.py",
+		"/C/Saurabh_projects/Human_Detection_And_Counting/App_Human_Detection_And_Counting/apps.py",
+		"/C/Saurabh_projects/Human_Detection_And_Counting/App_Human_Detection_And_Counting/models.py",
+		"/C/Saurabh_projects/Human_Detection_And_Counting/App_Human_Detection_And_Counting/tests.py",
+		"/C/Saurabh_projects/traffic detection GUI/gui.py",
+		"/C/Saurabh_projects/traffic detection GUI/Frame.py",
+		"/C/Saurabh_projects/traffic detection GUI/Detect.py",
+		"/C/Users/Stephen/Downloads/Traffic_Signs_WebApp-master/Traffic_Signs_WebApp-master/Traffic_app.py",
+		"/C/Saurabh_projects/Traffic_sign_recogniser/Traffic_Sign_Recognition_System/Traffic_Sign_Recognition_System/settings.py",
+		"/C/Saurabh_projects/Traffic_sign_recogniser/Traffic_Sign_Recognition_System/manage.py",
+		"/C/Saurabh_projects/traffic detection GUI/traffic_sign.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-15068-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-16516-open.html",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/Detect.py",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/views.py",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/templates/home.html",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/templates/login.html",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/templates/register.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-16296-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-12876-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-9040-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-8460-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-13020-open.html",
+		"/C/Users/Stephen/Downloads/Python-Project-Traffic-Sign-Classification/Traffic sign classification/gui.py",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/adminn.html",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/models.py",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/urls.py",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/AIplagiarism/settings.py",
+		"/C/Users/Stephen/Downloads/Python-Project-Traffic-Sign-Classification/Traffic sign classification/traffic_sign.py",
+		"/C/Users/Stephen/Downloads/archive (1)/traffic_sign.py",
+		"/C/Users/Stephen/Downloads/archive (1)/gui.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-14456-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-10040-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-12764-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-11144-open.html",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/Register.html",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/home.html",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/MedicalStoreMngment/urls.py",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/static/register.css",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/static/register.css",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/urls.py",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/models.py",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/index.html",
+		"/C/Saurabh_projects/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/Registration.html",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/AIplagiarism/urls.py",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/static/home.css",
+		"/C/Saurabh_projects/contactmanagement/Contact_Management/Contact_Management/urls.py",
+		"/C/Saurabh_projects/contactmanagement/Contact_Management/App_Contact_Management/urls.py",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/templates/home",
+		"/C/Saurabh_projects/AI plagarism/AIplagiarism/playgiarism/templates",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-14100-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-7844-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-4884-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-3928-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-7764-open.html",
+		"/C/Users/Stephen/Downloads/Tensorfllow/Weapons.v1i.voc/xml_to_csv.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-2044-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-13636-open.html",
+		"/C/Users/Stephen/Downloads/objectdetection.py",
+		"/C/Fasterrrcnn/train.py",
+		"/C/Users/Stephen/Downloads/Tensorfllow/Weapons.v1i.voc/converter1.py",
+		"/C/Users/Stephen/Downloads/xml_to_csv.py",
+		"/C/Users/Stephen/Desktop/converter1.py",
+		"/C/Users/Stephen/Desktop/converter.py",
+		"/C/Users/Stephen/Desktop/converter",
+		"/C/Users/Stephen/Desktop/xml_too_csv",
+		"/C/Users/Stephen/Desktop/move.py",
+		"/C/Users/Stephen/Desktop/move",
+		"/C/contactmanagement/Contact_Management/App_Contact_Management/views.py",
+		"/C/Users/Stephen/Downloads/models-master/models-master/research/object_detection/xml_to_csv.py",
+		"/C/weapons_detection/my_env/Yolo_v6/configs/yolov6l_finetune.py",
+		"/C/automl-master/efficientdet/backbone/efficientnet_model.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-15328-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-6988-open.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/urls.py",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/views.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-12940-open.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/models.py",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-6616-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-2816-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-12252-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-10784-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-2808-open.html",
+		"/C/Users/Stephen/AppData/Roaming/jupyter/runtime/nbserver-13136-open.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/medelupdate.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/Stafflogin.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/index.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/authorization.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/edit.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/adminn.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/medicine.html",
+		"/C/MedicalStoreManagement/MedicalStoreMngment/medicine/templates/Register.html"
+	],
+	"find":
+	{
+		"height": 49.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        \n",
+			"preds"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.6
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Skin Disease Detection System.sublime-project",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

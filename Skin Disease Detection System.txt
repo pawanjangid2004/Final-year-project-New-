@@ -1,0 +1,41 @@
+User:
+Login 
+Registeration
+Image Upload-Upload image and the class will be detected accordingly
+View Doctors - Doctors will be shown as per the class detected
+Give Feedback
+
+
+Admin
+Login
+View Users 
+View Doctors  - Add/Update/Delete/View
+View Feedback
+
+
+
+Framework: Django
+Front End: Html,Css,Javascript
+Back End :Mysql
+Back End Language:Python
+
+
+Dataset:
+Dataset will used from kaggle 
+
+**Classes
+Acne and Rosacea
+Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions
+Melanoma Skin Cancer Nevi and Moless
+
+
+
+Model:
+Cnn
+
+
+
+
+
+
+
